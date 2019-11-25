@@ -1,0 +1,9 @@
+Toby y el super número
+
+Toby ha estado interesado por los números que son tan grandes,
+que incluso no pueden ser almacenados en la mayoría de los lenguages como un número entero.
+Toby está interesado en determinar la cantidad de ceros que contiene un determinado súper número.
+¿Puedes ayudarlo en esta tarea?
+
+La entrada contiene multiples casos de prueba, por cada línea se recibe un entero $n$, el entero dado se encuentra estrictamente en el siguiente rango
+$n$$(0&le;n,m &le;10^{1000000})$
